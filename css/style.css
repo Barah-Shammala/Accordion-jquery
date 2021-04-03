@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.accordion{
+    width: 100%;
+    height: 50px;
+    background: cornflowerblue;
+    border: none;
+    text-align: left;
+    padding: 5px 10px;
+    color: #fff;
+    font-size: 18px;
+    border-bottom: 2px solid #fff;
+}
+p{
+    padding: 20px;
+    color: #555;
+ 
+}
+.panel{
+   display: none;
+}
